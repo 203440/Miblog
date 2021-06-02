@@ -4,13 +4,13 @@ body{
     margin: 0 ;
 }
 header{
-    background-color: darkkhaki;
+    background-color:darkgrey;
     border-width: 1px;
     height: auto;
 }
 
 header img {
-    width: 70px;
+    width: 80px;
     height: auto;
     float: center;
 }
@@ -37,6 +37,7 @@ footer {
     border-color: black;
     border-style: solid;
     background-color: aqua;
+    text-align: center;
 }
 main {
     width: 90%;
@@ -55,12 +56,12 @@ nav{
     text-align: center;
     background-color:grey;
     color: white;
-    height: 20px;
+    height: 25px;
 }
 .box {
     border: 1px black solid;
     background-image: url();
-    background-color:bisque;
+    background-color:darkseagreen;
 }
 header span {
     text-align: center;
@@ -96,12 +97,12 @@ span {
 .box2 {
     border: 1px black solid;
     background-image: url();
-    background-color:tan;
+    background-color:lightskyblue;
 }
 .box3 {
     border: 1px black solid;
     background-image: url();
-    background-color:tan;
+    background-color:lightgreen;
     height: auto;
 }
 .imagenP{
